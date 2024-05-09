@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+  position: relative;
+  height: 100%;
+}
+
+.container {
+  border: solid black 2px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.form-container {
+  width: 12cm;
+  padding: 25px;
+  margin: 6cm auto;
+  border-radius: 15px;
+  text-align: left;
+}
+
+.booking-form-container {
+  width: auto;
+  padding: 25px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.booking-form-header {
+  width: 100%;
+  padding: 20px;
+  margin: 1.5cm auto 0 auto;
+  text-align: justify;
+}
+
+.home-container {
+  margin: 1cm 0cm 3cm 0cm;
+  text-align: left;
+  border: solid black 2px;
+  width:100%;
+  padding: 1cm;
+  height: auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.home-facility-container {
+  margin: 1cm auto;
+  width: 800px;
+  height: 500px;
+
+}
+
+.home-facilities {
+  border: 1px solid black;
+  padding: 1cm;
+  margin: 2cm auto;
+  width: 400px;
+}
+
+.home-typewriter {
+  text-align: center;
+  font-weight: 400;
+  font-size: 29px;
+  padding: 7px;
+  font-family:'Times New Roman', Times, serif;
+  margin: 10px 0px 10px 0px;
+}
+
+.home-typewriter .relaxation {
+  font-weight:bolder;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.home-title {
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.background {
+  background-color: aqua;
+}
+
+.title {
+  padding: 0 0 20px 2px;
+  color: rgb(57, 161, 247);
+  font-size: large;
+  font-weight: bold;
+}
+
+.submitForm {
+  width: 100%;
+  padding: 5px;
+  border-radius: 25px;
+  border: none;
+  color: rgb(255, 255, 255);
+  background-color: rgb(57, 161, 247);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.redirectRegister {
+  cursor: pointer;
+}
+
+.image-contain {
+  object-fit: contain;
+  height: 400px;
+  width: 90%;
+  color: rgb(244, 244, 6);
+}
+
+
+
